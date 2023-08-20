@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulvlg
-- 👀 I’m interested in computers and another IT gadjes
+- 👀 I’m interested in computers and another IT gadjets
 - 🌱 I’m currently learning Java
 - 💞️ Currently I’m not looking for collaborate, but ... never say never.
 - 📫 How to reach me email@p-tikhomirov.ru
