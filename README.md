@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @paulvlg
 - 👀 I’m interested in computers and another IT gadjets
-- 🌱 I’m currently learning Java
-- 💞️ Currently I’m not looking for collaborate, but ... never say never.
-- 📫 How to reach me email@p-tikhomirov.ru
+- 🌱 Currently, I am interested in programming.
+- 💞️ Right now, I'm not looking for collaboration, but you never know what the future holds.
+- 📫 You can reach me via email at p-tikhomirov@mail.ru.
 
 <!---
 paulvlg/paulvlg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
