@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @paulvlg
-- 👀 I’m interested in computers and another IT gadjets
-- 🌱 Currently, I am interested in programming.
+- 👋 Hi, I'm Paul T.
+- 👀 I'm interested in computers and other IT-related devices.
+- 🌱 Currently, my focus is on programming.
 - 💞️ Right now, I'm not looking for collaboration, but you never know what the future holds.
 - 📫 You can reach me via email at p.p.tikhomirov@ya.ru
 
