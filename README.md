@@ -2,6 +2,7 @@
 - 👀 I'm interested in computers and other IT-related devices.
 - 🌱 Currently, my focus is on programming.
 
+![Static Badge](https://img.shields.io/badge/Fedora-black?style=flat&logo=fedora&logoColor=%2351A2DA)
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=flat-square&logo=python)
 
 
